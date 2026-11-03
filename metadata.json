@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Huruf J, G & H - Belajar Abjad Ceria",
+  "description": "Game edukasi interaktif belajar mengenal huruf J, mengulang huruf G dan H, mencocokkan huruf dan benda dengan suara ceria dan animasi seru untuk anak-anak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
